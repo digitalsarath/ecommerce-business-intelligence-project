@@ -1,0 +1,52 @@
+# Dashboard Documentation
+
+## Executive Overview Dashboard
+
+Purpose: Provide a high-level summary of business performance.
+
+Key Metrics:
+
+* Revenue
+* Orders
+* Customers
+* Products
+* AOV
+* UK Revenue Share
+
+Dashboard Link:
+
+https://public.tableau.com/views/E-CommerceExecutiveProductPerformanceDashboard/Dashboard1
+
+---
+
+## Product Performance Dashboard
+
+Purpose: Evaluate product performance and product contribution.
+
+Key Metrics:
+
+* Product Revenue
+* Product Quantity
+* Revenue Contribution
+* Average Selling Price
+
+Dashboard Link:
+
+https://public.tableau.com/views/E-CommerceExecutiveProductPerformanceDashboard/Dashboard2
+
+---
+
+## Customer Analytics Dashboard
+
+Purpose: Understand customer behaviour and customer value.
+
+Key Metrics:
+
+* Customer Segments
+* Segment Revenue
+* Customer Activity
+* Customer Frequency
+
+Dashboard Link:
+
+https://public.tableau.com/views/E-CommerceCustomerRFMAnalysisMajorProject/Dashboard1

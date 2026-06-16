@@ -1,0 +1,36 @@
+# Data Cleaning Summary
+
+## Dataset Profile
+
+| Metric           | Count     |
+| ---------------- | --------- |
+| Original Records | 1,067,371 |
+| Final Records    | 1,007,913 |
+| Customers        | 5,878     |
+| Products         | 4,916     |
+| Countries        | 43        |
+
+## Data Quality Issues Identified
+
+| Issue                | Records |
+| -------------------- | ------- |
+| Missing Customer IDs | 243,007 |
+| Missing Descriptions | 4,382   |
+| Duplicate Records    | 34,335  |
+| Cancelled Orders     | 19,494  |
+| Negative Quantities  | 22,950  |
+| Invalid Prices       | 6,207   |
+
+## Cleaning Activities Performed
+
+* Removed duplicate records.
+* Identified cancelled transactions.
+* Removed invalid sales entries.
+* Investigated inventory adjustment transactions.
+* Standardised date formats.
+* Generated revenue calculations.
+* Created reporting attributes.
+
+## Result
+
+A clean analytical dataset was prepared for reporting, segmentation, and dashboard development.

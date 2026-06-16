@@ -1,0 +1,47 @@
+# Customer Segmentation (RFM Analysis)
+
+## Overview
+
+Customer segmentation was performed using the RFM framework.
+
+RFM evaluates customers based on:
+
+### Recency
+
+How recently a customer made a purchase.
+
+### Frequency
+
+How often a customer purchases.
+
+### Monetary
+
+How much revenue a customer generates.
+
+---
+
+## Segment Distribution
+
+| Segment             | Customers |
+| ------------------- | --------- |
+| Champions           | 473       |
+| Loyal Customers     | 1,003     |
+| Potential Loyalists | 879       |
+| At Risk             | 352       |
+| Others              | 3,171     |
+
+---
+
+## Revenue Contribution
+
+| Segment             | Revenue Share |
+| ------------------- | ------------- |
+| Champions           | 47.17%        |
+| Loyal Customers     | 21.90%        |
+| Others              | 19.65%        |
+| At Risk             | 6.27%         |
+| Potential Loyalists | 5.01%         |
+
+## Key Insight
+
+Champion customers represent a small portion of the customer base but contribute nearly half of total customer-attributable revenue, making customer retention a critical strategic priority.

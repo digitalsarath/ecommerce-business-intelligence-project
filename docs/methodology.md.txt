@@ -1,0 +1,70 @@
+# Project Methodology
+
+## Analytical Framework
+
+The project follows a structured business intelligence workflow to transform raw transactional data into meaningful insights.
+
+```text
+Raw Dataset
+     ↓
+Data Profiling
+     ↓
+Data Cleaning
+     ↓
+Feature Engineering
+     ↓
+Exploratory Data Analysis
+     ↓
+RFM Customer Segmentation
+     ↓
+KPI Development
+     ↓
+Tableau Dashboards
+     ↓
+Business Insights
+```
+
+## Phase 1: Data Profiling
+
+The dataset was examined to identify:
+
+* Missing values
+* Duplicate records
+* Cancelled transactions
+* Invalid prices
+* Negative quantities
+* Data inconsistencies
+
+## Phase 2: Data Cleaning
+
+Data quality issues were addressed through:
+
+* Duplicate removal
+* Transaction validation
+* Missing value handling
+* Revenue calculation
+* Date standardisation
+
+## Phase 3: Exploratory Data Analysis
+
+EDA was conducted to analyse:
+
+* Revenue trends
+* Product performance
+* Country performance
+* Customer behaviour
+* Order patterns
+
+## Phase 4: Customer Segmentation
+
+RFM (Recency, Frequency, Monetary) analysis was used to segment customers into:
+
+* Champions
+* Loyal Customers
+* Potential Loyalists
+* At Risk Customers
+* Others
+
+## Phase 5: Dashboard Development
+
+Interactive Tableau dashboards were developed to communicate findings and support business decision-making.

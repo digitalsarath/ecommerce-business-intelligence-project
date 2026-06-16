@@ -1,0 +1,38 @@
+# Business Problem
+
+## Overview
+
+E-commerce businesses generate large volumes of transactional data every day. However, raw business data often contains missing values, duplicate records, cancelled transactions, invalid entries, and inconsistencies that reduce reporting accuracy and hinder effective decision-making.
+
+Without proper data preparation, organizations may struggle to:
+
+* Monitor sales performance accurately.
+* Understand customer purchasing behaviour.
+* Identify high-value customers.
+* Evaluate product performance.
+* Measure market contribution.
+* Support data-driven business decisions.
+
+## Project Objective
+
+The objective of this project is to transform raw e-commerce transaction data into actionable business intelligence through:
+
+* Data Cleaning
+* Exploratory Data Analysis
+* KPI Development
+* Customer Segmentation
+* Dashboard Visualisation
+* Business Reporting
+
+## Expected Business Outcomes
+
+The project aims to provide insights into:
+
+* Revenue Performance
+* Product Performance
+* Customer Behaviour
+* Geographic Revenue Distribution
+* Customer Retention Opportunities
+* Business Growth Opportunities
+
+The final output consists of clean analytical datasets, customer segmentation models, and interactive Tableau dashboards that support strategic business decision-making.

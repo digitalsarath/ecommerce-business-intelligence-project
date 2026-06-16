@@ -1,0 +1,31 @@
+# Key Findings
+
+## Sales Performance
+
+* Total Revenue reached £20.48M.
+* Average Order Value reached £510.94.
+* Over 40,000 completed orders were analysed.
+
+## Geographic Analysis
+
+* United Kingdom contributed 85.03% of total revenue.
+* Revenue was generated across 43 countries.
+* Business remains heavily dependent on the UK market.
+
+## Product Analysis
+
+* Top 10 products contributed 10.15% of total revenue.
+* Revenue is distributed across a diversified product portfolio.
+* No excessive dependency on a single product.
+
+## Customer Analysis
+
+* Champions contributed 47.17% of revenue.
+* Loyal Customers contributed 21.90%.
+* Customer retention represents a significant growth opportunity.
+
+## Data Quality
+
+* Over 34,000 duplicate records were identified.
+* More than 19,000 cancelled transactions were analysed.
+* Data cleaning significantly improved reporting reliability.
