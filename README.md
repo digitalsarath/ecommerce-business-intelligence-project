@@ -1,3 +1,5 @@
+![Project Banner](images/project-banner.png)
+
 ---
 # 📌 Project Overview
 
@@ -71,26 +73,7 @@ The project utilizes the **Online Retail II Dataset**, containing transactional 
 ---
 
 # 🔄 Project Workflow
-
-```text
-Raw Dataset
-     ↓
-Data Profiling
-     ↓
-Data Cleaning
-     ↓
-Feature Engineering
-     ↓
-Exploratory Data Analysis
-     ↓
-RFM Customer Segmentation
-     ↓
-KPI Development
-     ↓
-Tableau Dashboards
-     ↓
-Business Insights & Recommendations
-```
+![Project Workflow](images/project-workflow.png)
 
 ---
 
@@ -188,6 +171,10 @@ Although Champion Customers represent a relatively small portion of the customer
 
 ## Executive Overview Dashboard
 
+<a href="https://public.tableau.com/views/E-CommerceExecutiveProductPerformanceDashboard/Dashboard1">
+  <img src="dashboards/executive-overview-dashboard.png" alt="Product Overview Dashboard"/>
+</a>
+
 ### Dashboard Highlights
 
 * Revenue Overview
@@ -197,13 +184,16 @@ Although Champion Customers represent a relatively small portion of the customer
 * UK Revenue Dependency Analysis
 * Executive KPI Monitoring
 
-🔗 Dashboard Link:
-
-https://public.tableau.com/views/E-CommerceExecutiveProductPerformanceDashboard/Dashboard1
+<a href="https://public.tableau.com/views/E-CommerceExecutiveProductPerformanceDashboard/Dashboard1">
+🔗 Click Here for Live Dashboard</a>
 
 ---
 
 ## Product Performance Dashboard
+
+<a href="https://public.tableau.com/views/E-CommerceExecutiveProductPerformanceDashboard/Dashboard2">
+  <img src="dashboards/product-performance-dashboard.png" alt="Product Overview Dashboard"/>
+</a>
 
 ### Dashboard Highlights
 
@@ -213,13 +203,16 @@ https://public.tableau.com/views/E-CommerceExecutiveProductPerformanceDashboard/
 * Product Contribution Analysis
 * Average Selling Price Metrics
 
-🔗 Dashboard Link:
-
-https://public.tableau.com/views/E-CommerceExecutiveProductPerformanceDashboard/Dashboard2
+<a href="https://public.tableau.com/views/E-CommerceExecutiveProductPerformanceDashboard/Dashboard2">
+🔗 Click Here for Live Dashboard</a>
 
 ---
 
 ## Customer Analytics Dashboard
+
+<a href="https://public.tableau.com/views/E-CommerceCustomerRFMAnalysisMajorProject/Dashboard1">
+  <img src="dashboards/customer-rfm-analysis-dashboard.png" alt="Product Overview Dashboard"/>
+</a>
 
 ### Dashboard Highlights
 
@@ -229,9 +222,8 @@ https://public.tableau.com/views/E-CommerceExecutiveProductPerformanceDashboard/
 * Customer Frequency Analysis
 * Top Customer Identification
 
-🔗 Dashboard Link:
-
-https://public.tableau.com/views/E-CommerceCustomerRFMAnalysisMajorProject/Dashboard1
+<a href="https://public.tableau.com/views/E-CommerceCustomerRFMAnalysisMajorProject/Dashboard1">
+🔗 Click Here for Live Dashboard</a>
 
 ---
 
