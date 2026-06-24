@@ -172,7 +172,7 @@ Although Champion Customers represent a relatively small portion of the customer
 ## Executive Overview Dashboard
 
 <a href="https://public.tableau.com/views/E-CommerceExecutiveProductPerformanceDashboard/Dashboard1">
-  <img src="dashboards/executive-overview-dashboard.png" alt="Product Overview Dashboard"/>
+  <img src="dashboards/01_executive-overview-dashboard.png" alt="Product Overview Dashboard"/>
 </a>
 
 ### Dashboard Highlights
@@ -192,7 +192,7 @@ Although Champion Customers represent a relatively small portion of the customer
 ## Product Performance Dashboard
 
 <a href="https://public.tableau.com/views/E-CommerceExecutiveProductPerformanceDashboard/Dashboard2">
-  <img src="dashboards/product-performance-dashboard.png" alt="Product Overview Dashboard"/>
+  <img src="dashboards/02_product-performance-dashboard.png" alt="Product Overview Dashboard"/>
 </a>
 
 ### Dashboard Highlights
@@ -211,7 +211,7 @@ Although Champion Customers represent a relatively small portion of the customer
 ## Customer Analytics Dashboard
 
 <a href="https://public.tableau.com/views/E-CommerceCustomerRFMAnalysisMajorProject/Dashboard1">
-  <img src="dashboards/customer-rfm-analysis-dashboard.png" alt="Product Overview Dashboard"/>
+  <img src="dashboards/03_customer-rfm-analysis-dashboard.png" alt="Product Overview Dashboard"/>
 </a>
 
 ### Dashboard Highlights
@@ -261,13 +261,12 @@ Although Champion Customers represent a relatively small portion of the customer
 ecommerce-business-intelligence-project/
 
 ├── data/
-├── notebooks/
+├── codebase/
 ├── dashboards/
 ├── docs/
 ├── reports/
 ├── images/
 ├── README.md
-├── requirements.txt
 └── LICENSE
 ```
 
